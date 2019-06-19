@@ -1,3 +1,3 @@
 node {
-   echo 'test7'
+   echo 'test8'
 }
